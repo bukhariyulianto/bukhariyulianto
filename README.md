@@ -55,3 +55,7 @@ AI Tools
 ## Philosophy
 
 > Build systems that simplify operations and scale sustainably.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukhariyulianto&show_icons=true&theme=dark)
