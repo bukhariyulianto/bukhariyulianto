@@ -1,32 +1,57 @@
-Assalamu’alaikum, I'm Bukhari Yulianto
+# 👋 Bukhari Yulianto
 
-Business system and digital operations specialist focused on workflow efficiency, automation, and scalable online systems.
+Digital operations and business systems specialist focused on workflow optimization, automation, and scalable digital infrastructure.
 
-Areas of Focus
-Digital operations
-Business workflow systems
-Website development
-SEO optimization
-ERP implementation
-AI-assisted productivity
-Documentation systems
-Current Interests
-Workflow automation
-Business process optimization
-WordPress ecosystem
-ERP integration
-AI for operational efficiency
-Technical documentation
-Tools & Platforms
+---
+
+## Core Focus
+
+- Business workflow systems
+- ERP implementation
+- SEO & web architecture
+- AI-assisted productivity
+- Operational documentation
+- Process optimization
+
+---
+
+## Stack
+
+```txt
 WordPress
 Elementor
-ERP
-Google Workspace
-Notion
+Odoo ERP
 HTML/CSS
-SEO Tools
+SEO
+Google Workspace
 Canva
-Pixellab
 AI Tools
-Philosophy
-Build systems that reduce friction, improve clarity, and scale sustainably.
+```
+
+---
+
+## Current Direction
+
+- AI workflow automation
+- Business system integration
+- Scalable documentation
+- Operational efficiency
+- Digital infrastructure
+
+---
+
+## Selected Projects
+
+| Project | Focus |
+|---|---|
+| Digital Operations System | Workflow & documentation |
+| ERP Business Process | Procurement & inventory |
+| SEO Framework | Content structure |
+| AI Workflow Automation | Productivity system |
+| WordPress Business Architecture | Web system |
+
+---
+
+## Philosophy
+
+> Build systems that simplify operations and scale sustainably.
