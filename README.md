@@ -2,174 +2,199 @@
 
 # 👋 Assalamu'alaikum, I'm Bukhari Yulianto
 
-### Open Knowledge Architect • AI Explorer • Enterprise Systems • Islamic Civilization Research
+### Open Knowledge Architect • Enterprise Systems • Artificial Intelligence • Open Source
 
-<p>
-Building open-source knowledge that connects <strong>Artificial Intelligence</strong>,
-<strong>Enterprise Digital Transformation</strong>,
-<strong>Islamic Civilization</strong>,
-<strong>Healthcare</strong>,
-and <strong>Education</strong>.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Open+Knowledge+Ecosystem;Enterprise+Systems+%26+Business+Automation;Artificial+Intelligence+Explorer;Open+Source+Documentation;Knowledge+Engineering;Continuous+Learning" />
 
 ---
 
 > **"Build Knowledge • Share Knowledge • Preserve Civilization"**
 
+![Profile Views](https://komarev.com/ghpvc/?username=bukhariyulianto&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/bukhariyulianto?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/bukhariyulianto?style=social)
+
 </div>
 
 ---
 
-# 🌍 Vision
+# 🌍 About Me
 
-Technology is evolving faster than ever.
+I build practical digital solutions by combining **Enterprise Systems**, **Artificial Intelligence**, **Knowledge Management**, and **Open Source Documentation**.
 
-Knowledge is becoming the most valuable asset.
+My repositories focus on solving real-world problems through structured documentation, automation, and continuous learning.
 
-Civilizations endure when knowledge is preserved, organized, and shared.
+Current interests include:
 
-My mission is to build an **Open Knowledge Ecosystem** that combines research, technology, and documentation into reusable open-source projects.
-
----
-
-# 🎯 Mission
-
-- 🤖 Explore Artificial Intelligence & Agentic AI
-- 🕌 Research Islamic Civilization
-- 💰 Study Islamic Economic Systems
-- 🏥 Develop Islamic Civilization Health System (ICHS)
-- 📚 Build Modern Learning Platforms
-- 🌐 Design Enterprise Digital Systems
-- 📖 Create High-Quality Open Documentation
+- 🤖 Artificial Intelligence
+- 🧠 Knowledge Engineering
+- 📚 Documentation Systems
+- 🏢 Enterprise Digital Transformation
+- 📊 Business Intelligence
+- 🏥 Healthcare Information Systems
+- 🕌 Islamic Civilization Studies
+- 💰 Islamic Economic Systems
 
 ---
 
-# 🧭 Knowledge Architecture
+# 🎯 Current Focus (2026)
+
+| Area | Status |
+|------|--------|
+| 🤖 AI Research | 🟢 Active |
+| 📚 Knowledge Hub | 🟢 Active |
+| 🧠 HardModeBrain | 🟢 Active |
+| 🕌 Arabic_Patern | 🟢 Active |
+| 🏥 ICHS | 🟡 Research |
+| 💰 Islamic Economics | 🟡 Research |
+| 🌐 Enterprise Documentation | 🟢 Active |
+
+---
+
+# 🧭 Knowledge Ecosystem
 
 ```text
-                             KNOWLEDGE
+                     OPEN KNOWLEDGE ECOSYSTEM
 
-                                 │
+                               │
 
-                           Critical Thinking
+                     Knowledge Engineering
 
-                                 │
+                               │
 
-          ┌──────────────────────┼──────────────────────┐
+      ┌────────────────────────┼─────────────────────────┐
 
-          ▼                      ▼                      ▼
+      ▼                        ▼                         ▼
 
-     Education             Civilization          Technology
+Artificial Intelligence   Enterprise Systems   Civilization Research
 
-          │                      │                      │
+      │                        │                         │
 
-          ▼                      ▼                      ▼
+      ▼                        ▼                         ▼
 
-  Arabic Learning       Islamic Economics      Artificial Intelligence
+ HardModeBrain™        Business Automation      Islamic Studies
 
-          │                      │                      │
+      │                        │                         │
 
-          ▼                      ▼                      ▼
+      ▼                        ▼                         ▼
 
-   Arabic_Patern™            ICHS™           HardModeBrain™
+ Documentation Hub     ERP & Analytics        Arabic_Patern™
 
-                                 │
+                               │
 
-                                 ▼
+                               ▼
 
-                    Open Knowledge Ecosystem
+                  Open Knowledge Platform
 ```
 
 ---
 
-# 🚀 Flagship Projects
-
-## 🟢 Arabic_Patern™
-
-Arabic morphology learning framework using visual pattern recognition.
-
-> Helping learners understand Arabic structures systematically.
-
----
-
-## 🏥 ICHS™
-
-Islamic Civilization Health System
-
-Researching healthcare concepts from the perspective of Islamic civilization.
-
----
+# ⭐ Flagship Projects
 
 ## 🧠 HardModeBrain™
 
 Critical Thinking Framework
 
-- First Principles
-- Knowledge Management
-- AI Learning
-- Mental Models
+Knowledge Management
+
+Mental Models
+
+AI Learning
 
 ---
 
-## 🤖 AI Civilization™
+## 🕌 Arabic_Patern™
 
-Research Topics
+Visual Arabic Pattern Learning
+
+Arabic Morphology
+
+Learning Framework
+
+---
+
+## 🏥 Islamic Civilization Health System (ICHS)
+
+Healthcare
+
+Civilization Research
+
+Knowledge Documentation
+
+---
+
+## 🤖 AI Civilization
+
+Artificial Intelligence
+
+Agentic AI
+
+Robotics
+
+Future Technology
+
+---
+
+## 💰 Islamic Economics
+
+Ownership
+
+Distribution
+
+Economic Systems
+
+Civilization
+
+---
+
+# 🔬 Research Areas
 
 - Artificial Intelligence
-- AGI
-- Robotics
-- AI Safety
-- Future Civilization
-- Human–AI Collaboration
-
----
-
-## 💰 Islamic Economics™
-
-Research Topics
-
-- Ownership
-- Wealth Distribution
-- Public Assets
-- Economic Systems
-- Civilization Studies
-
----
-
-# 🔬 Current Research
-
-- Artificial Intelligence
-- Agentic AI
-- Knowledge Graph
-- Enterprise Architecture
-- Arabic NLP
-- Islamic Civilization
-- Healthcare Systems
-- Digital Learning
-- Documentation Engineering
-
----
-
-# 💼 Enterprise Experience
-
-- ERP (Odoo)
-- Accurate Online
-- Purchasing Management
-- Supply Chain
-- Import & Procurement
+- Knowledge Engineering
+- Documentation Architecture
+- Enterprise Systems
+- Healthcare Information System
 - Business Intelligence
+- Islamic Civilization
+- Learning Systems
+
+---
+
+# 💼 Professional Experience
+
+### Enterprise Systems
+
+- ERP
+- Purchasing
+- Procurement
+- Supply Chain
+- Inventory
+- Import Management
+
+### Business Intelligence
+
 - Google Looker Studio
-- WordPress Development
+- Spreadsheet Automation
+- KPI Dashboard
+- Data Analysis
+
+### Web Technology
+
+- WordPress
+- SEO
+- GitHub Pages
+- Markdown Documentation
 
 ---
 
 # ⚙️ Technology Stack
 
-### Programming & Development
+### Languages
 
 - Python
-- Git
-- GitHub
+- SQL
+- HTML
+- CSS
 - Markdown
 
 ### Enterprise
@@ -179,108 +204,84 @@ Research Topics
 - Google Workspace
 - Looker Studio
 
-### Web
+### Development
 
-- WordPress
-- Elementor
-- SEO
-- REST API
+- Git
+- GitHub
+- VS Code
+- Docker
 
 ### Design
 
 - Canva
 - Figma
 
-### Productivity
-
-- VS Code
-- GitHub Actions
-- AI-assisted Documentation
-
 ---
 
-# 📚 Knowledge Domains
+# 📈 Development Roadmap
 
-```text
-Artificial Intelligence
-        │
-        ▼
-Knowledge Management
-        │
-        ▼
-Enterprise Systems
-        │
-        ▼
-Islamic Civilization
-        │
-        ▼
-Healthcare
-        │
-        ▼
-Education
-```
+## Active
 
----
+- ✅ Knowledge Hub
+- ✅ Arabic_Patern
+- ✅ HardModeBrain
+- ✅ Enterprise Documentation
 
-# 🗺️ Development Roadmap
+## Research
 
-## 2026
+- 🚧 AI Civilization
+- 🚧 Islamic Economics
+- 🚧 ICHS
 
-- ✅ Arabic_Patern™
-- ✅ HardModeBrain™
-- ✅ ICHS™
-- 🚧 AI Civilization™
-- 🚧 Islamic Economics™
-
-## 2027
+## Future
 
 - ⏳ Knowledge Graph
 - ⏳ AI Tutor
 - ⏳ Open Learning Platform
 
-## 2028+
+---
 
-- 🌍 Civilization OS
-- 🌍 Digital Knowledge Library
-- 🌍 Global Open Knowledge Hub
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bukhariyulianto&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukhariyulianto&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bukhariyulianto&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🌱 Philosophy
+# 🤝 Open Collaboration
 
-> Technology should empower people.
-
-> Knowledge should outlive generations.
-
-> Documentation should preserve civilization.
-
-> Open Source should benefit humanity.
-
----
-
-# 📈 GitHub Dashboard
-
-> *(Dynamic badges can be added later)*
-
-- GitHub Stats
-- Contribution Graph
-- Streak Stats
-- Top Languages
-- Activity Graph
-
----
-
-# 🤝 Collaboration
-
-I welcome collaboration on projects related to:
+I'm interested in collaborating on projects related to:
 
 - Artificial Intelligence
-- Knowledge Engineering
+- Knowledge Management
 - Enterprise Systems
+- Business Automation
+- Open Source Documentation
 - Healthcare Technology
-- Islamic Civilization Studies
 - Educational Technology
-- Open Documentation
+
+---
+
+# 📖 Philosophy
+
+> Technology is a tool.
+
+> Knowledge is an asset.
+
+> Documentation preserves experience.
+
+> Open Source accelerates learning.
 
 ---
 
@@ -289,7 +290,7 @@ I welcome collaboration on projects related to:
 - 💼 LinkedIn
 - 🌍 GitHub Pages
 - 📚 Documentation Hub
-- 📖 Research Repositories
+- 📖 Research Repository
 
 ---
 
@@ -297,10 +298,16 @@ I welcome collaboration on projects related to:
 
 ## ⭐ Motto
 
-### **Build Knowledge.**
-### **Share Knowledge.**
-### **Preserve Civilization.**
+### Build Knowledge.
 
-*"Every repository is a building block for a larger knowledge ecosystem."*
+### Share Knowledge.
+
+### Keep Learning.
+
+---
+
+**Thanks for visiting my GitHub!**
+
+*"Every repository is a step toward better knowledge management and practical innovation."*
 
 </div>
